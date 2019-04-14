@@ -8,6 +8,7 @@ package com.example.demo;
  **/
 public class Bsearch {
 
+    //手动改v2
     public int bsearch(int[] arr , int value) {
         int low = 0;
         int high = arr.length - 1;
