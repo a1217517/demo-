@@ -10,6 +10,7 @@ public class Bsearch {
 
     //add1
     //add2
+    //add3
     public int bsearch(int[] arr , int value) {
         int low = 0;
         int high = arr.length - 1;
