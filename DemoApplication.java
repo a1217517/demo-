@@ -21,6 +21,7 @@ public class DemoApplication {
 
 	public static String  getMonth(String str,Function<String ,String> func){
 
+		System.out.println("v2");
 		return func.apply(str);
 
 	}
