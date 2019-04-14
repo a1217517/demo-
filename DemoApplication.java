@@ -20,6 +20,8 @@ import java.util.function.Supplier;
 public class DemoApplication {
 
 	public static String  getMonth(String str,Function<String ,String> func){
+		//add1
+
 
 		System.out.println("v1");
 		return func.apply(str);
