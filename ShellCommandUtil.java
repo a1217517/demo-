@@ -48,6 +48,8 @@ public class ShellCommandUtil {
     private static final int MODE_OTHER_WRITABLE = 2;
     private static final int MODE_OTHER_EXECUTABLE = 1;
 
+	//dddds
+	
     /*
     public static String LogAndReturnOpenSslExitCode(String command, int exitCode) {
       logOpenSslExitCode(command, exitCode);
