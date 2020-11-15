@@ -55,6 +55,11 @@ public class ForTest {
     }
 
     public static void main(String[] args) {
+        //ddddsdssfsdgsdgdgsdgsdgdgsd
+
+        //dsgdsgsgsd
+
+        //dsgdsgsdg
 
         //   System.out.println(10* 29.02d);
 
